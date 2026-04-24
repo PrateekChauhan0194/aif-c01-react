@@ -1,4 +1,7 @@
-# AIF-C01 Quick Revision Notes - React App
+<div align="center">
+  <img src="public/aws-logo.png" alt="AWS Logo" height=100/>
+  <h1>AIF-C01 Quick Revision Notes - React App</h1>
+</div>
 
 A fully interactive React application for studying AWS Certified AI Practitioner (AIF-C01) exam notes. This project was converted from a static HTML file into a modern React application using Vite.
 
@@ -30,16 +33,19 @@ A fully interactive React application for studying AWS Certified AI Practitioner
 ### Installation
 
 1. Navigate to the project directory:
+
    ```bash
    cd aif-c01-react
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    ```
 
 3. Start the development server:
+
    ```bash
    npm run dev
    ```
@@ -127,6 +133,7 @@ npm run build
 ```
 
 The optimized files will be in the `dist/` directory, ready to deploy to any static hosting service:
+
 - Netlify
 - Vercel
 - AWS S3 + CloudFront
